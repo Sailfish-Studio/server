@@ -1,14 +1,14 @@
 {
-  "name": "forkphorus-cloud-server",
+  "name": "sailfish-cloud-server",
   "version": "0.1.0",
-  "description": "",
+  "description": "Sailfish Studio cloud variable server",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest",
     "check": "tsc"
   },
-  "author": "GarboMuffin",
+  "author": "Sailfish-Studio",
   "license": "MIT",
   "dependencies": {
     "finalhandler": "^2.1.0",
